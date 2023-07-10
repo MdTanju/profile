@@ -49,11 +49,148 @@ nav a {
  }
 
 
-
- .benar {
-    padding: 30px 30px 30px 150px;
+/* benar */
+.benar {
     display: flex;
+    width: 80%;
+    margin: auto;
+    
+    align-items: center;
+    text-align: center;
+}
+.text , .img {
+    width: 50%;
+}
+.btn2 a {
+    text-align: center;
+    text-decoration: none;
+    font-style;
+    
+}
+
+
+ .tanju {
+    text-transform: capitalize;
+    font-size: 30px;
+    text-align: center;
+
+}
+.benartitle {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 37px;
+   
+}
+ 
+
+.img1 {
+    height: 500px;
+}
+.btn2 {
+    padding: 5px;
+    width: 150px;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    height: 500px;
+}
+
+.title1 {
+    text-align: center;
+    padding: 30px;
+
+
+}
+.title1 p {
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.title1 h2 {
+    text-align: center;
+    font-size: 35px;
+    text-transform: capitalize;
+}
+.people {
+    display: flex;
+    text-align: center;
+    padding: 3px 5px;
+    
+}
+.lokh h1  {
+     font-size: 30px;
+     font-weight: bold;
+     text-transform: capitalize;
+    padding: auto  5px; 
+}
+ .lokh p {
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+font-style: italic;
  }
- .img1 {
-    width: 200px;
+
+ .whatdo {
+    width: 80%;
+    padding: 50px;
+    height: auto;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    background-color: blanchedalmond;
  }
+ .what  h1{
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    color:tomato;
+ }
+
+ .what p {
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+ }
+ .div4 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    background-color: bisque;
+
+ }
+ .div4 .item {
+    width: 20%;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px 20px;
+    margin: auto;
+    background-color: aliceblue;
+    box-shadow: 10px 10px 20px seashell;
+
+ }
+ .item h2 {
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+
+ }
+ .item p {
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+ }
+ .item img {
+    width: 150px;
+ }
+
